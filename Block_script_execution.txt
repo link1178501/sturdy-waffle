@@ -2,17 +2,6 @@
 ||sentry.io^
 ||bugsnag.com^
 
-# --- Block Google Analytics, Hotjar, Yandex.Metrica scripts ---
-||google-analytics.com^
-||www.google-analytics.com^
-||ssl.google-analytics.com^
-||hotjar.com^
-||*.hotjar.com^
-||yandex.ru/metrika^
-||mc.yandex.ru^
-||yandex.net/metrika^
-||metrica.yandex.com^
-
 # --- Block common GIF and Flash ad domains ---
 ||doubleclick.net^
 ||googlesyndication.com^
